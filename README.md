@@ -1,0 +1,2 @@
+# SDN-Based-Moving-Target-Defense-Implementing-OpenFlow-Random-Host-Mutation
+Explore the implementation of Moving Target Defense (MTD) using Software Defined Networking (SDN) and OpenFlow. This project dynamically changes IP addresses with Random Host Mutation (RHM) to enhance network security. It includes setup details, configuration files, and analysis of the security improvements achieved through SDN.
