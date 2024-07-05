@@ -1,4 +1,4 @@
-# SDN-Based-Moving-Target-Defense-Implementing-OpenFlow-Random-Host-Mutation
+# SDN Based Moving Target Defense Implementing OpenFlow Random Host Mutation
 
 ## Overview
 
